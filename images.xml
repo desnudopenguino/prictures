@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gallery prefix="prefix for thumbs" count="number of images per page" name="gallery name" images="image directory" thumbs="image directory">
+	<image desc="description">image1.jpg</image>
+</gallery>
